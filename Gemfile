@@ -27,6 +27,7 @@ gem 'spree', '~> 3.1.0'
 gem 'spree_auth_devise', '~> 3.1.0'
 gem 'spree_gateway', '~> 3.1.0'
 gem 'spree_multi_domain', github: 'spree-contrib/spree-multi-domain', branch: '3-1-stable'
+gem 'spree_i18n', github: 'spree-contrib/spree_i18n', branch: '3-1-stable'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
